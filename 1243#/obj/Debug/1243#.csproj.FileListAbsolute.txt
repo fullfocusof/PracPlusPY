@@ -1,0 +1,7 @@
+E:\Projects\Practice\C++_C#\1243#\bin\Debug\1243#.exe.config
+E:\Projects\Practice\C++_C#\1243#\bin\Debug\1243#.exe
+E:\Projects\Practice\C++_C#\1243#\bin\Debug\1243#.pdb
+E:\Projects\Practice\C++_C#\1243#\obj\Debug\1243#.csproj.AssemblyReference.cache
+E:\Projects\Practice\C++_C#\1243#\obj\Debug\1243#.csproj.CoreCompileInputs.cache
+E:\Projects\Practice\C++_C#\1243#\obj\Debug\1243#.exe
+E:\Projects\Practice\C++_C#\1243#\obj\Debug\1243#.pdb

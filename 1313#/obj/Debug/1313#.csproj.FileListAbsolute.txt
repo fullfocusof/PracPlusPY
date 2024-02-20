@@ -1,0 +1,7 @@
+E:\Projects\Practice\C++_C#\1313#\bin\Debug\1313#.exe.config
+E:\Projects\Practice\C++_C#\1313#\bin\Debug\1313#.exe
+E:\Projects\Practice\C++_C#\1313#\bin\Debug\1313#.pdb
+E:\Projects\Practice\C++_C#\1313#\obj\Debug\1313#.csproj.AssemblyReference.cache
+E:\Projects\Practice\C++_C#\1313#\obj\Debug\1313#.csproj.CoreCompileInputs.cache
+E:\Projects\Practice\C++_C#\1313#\obj\Debug\1313#.exe
+E:\Projects\Practice\C++_C#\1313#\obj\Debug\1313#.pdb
